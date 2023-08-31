@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on me<br>🤝 I’m looking for help with new things<br>🌱 I’m currently learning Html,Css,Bootstrap,Javascript<br>💬 Ask me about everything<br>⚡ Fun fact I am slowly becoming the person I should've been a long time ago.
 
-<br>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0wcenk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0wcenk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cenkbasarannn/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/cenkbasarannn) 
 
