@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 # 💫 About Me:
 🌱 I’m currently learning Html,Css,Javascript,React<br>⚡ I am slowly becoming the person I should've been a long time ago.
