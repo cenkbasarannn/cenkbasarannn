@@ -1,7 +1,7 @@
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 # 💫 About Me:
-🌱 I’m currently learning Html,Css,Javascript,React<br>⚡ I am slowly becoming the person I should've been a long time ago.
+🌱 I’m currently learning React<br>⚡ I am slowly becoming the person I should've been a long time ago.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0wcenk)
